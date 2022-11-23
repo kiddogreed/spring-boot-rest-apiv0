@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-blog-rest-api/springboot-blog-rest-api.iml" filepath="$PROJECT_DIR$/springboot-blog-rest-api/springboot-blog-rest-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot-blog-rest-apiv0.iml" filepath="$PROJECT_DIR$/.idea/springboot-blog-rest-apiv0.iml" />
+    </modules>
+  </component>
+</project>
